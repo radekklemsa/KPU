@@ -1,0 +1,9 @@
+.gradle/
+**/build/
+local.properties
+.idea/workspace.xml
+.externalNativeBuild/
+.cxx/
+*.jks
+*.keystore
+keystore.properties
